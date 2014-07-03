@@ -11,16 +11,13 @@ Bu menüden, Haber, Basın Bildirisi, İndirim Bildirisi veya Sealife sayısı e
 
 
 #Slidelar
-Bu menüden yeni slide yaratabilir ve varolan slideları düzenleyebilirsiniz.
-
+Bu menüden ana sayfadaki resimli duyuru alanı(hero) ile ilgili içerikleri düzenleyebilirsiniz.
 
 #Galeriler
 
 Bu menüden ana sayfada görünecek Instagram fotoğraflarını arayabilir ve ana sayfaya ekleyebilirsiniz.
 
 Bu menüden yeni galeriler yaratabilir ve varolan galerileri düzenleyebilirsiniz.
-
-
 
 
 
@@ -33,8 +30,7 @@ Bu menüden yeni gemi yaratabilir ve varolan gemileri düzenleyebilirsiniz.
 
 
 #Güzergahlar
-Bu menüden yeni güzergah yaratabilir ve varolan güzergahları düzenleyebilirsiniz.
-
+Bu menüden güzergah ve tarifelerle ilgili eklemeleri ve düzenlemeleri yapabilirsiniz.
 
 
 #Güzergah Kategorileri
@@ -42,8 +38,6 @@ Bu menüden yeni güzergah kategorisi yaratabilir ve varolan güzergah kategoril
 
 #Sezonlar
 Bu menüden yeni sezon yaratabilir ve varolan sezonları düzenleyebilirsiniz. Bu bölüm gelişmiş kullanıcılar içindir
-
-
 
 
 #Gemi Kategorileri
@@ -59,9 +53,9 @@ Bu menüden email listesi için yeni abonelikler ekleyebilir, bunları düzenley
 #Çeviriler
 Bu menüden yeni çeviri yaratabilir ve varolan çevirileri düzenleyebilirsiniz. Bu bölüm gelişmiş kullanıcılar içindir.
 
-
 #Bölümler
-Bu menüden yeni bölüm yaratabilir ve varolan bölümleri düzenleyebilirsiniz.
+Bu menüden sayfalar için yeni bölüm yaratabilir ve varolan bölümleri düzenleyebilirsiniz.
+
 
 #İçerik Tipleri
 Bu menüden yeni içerik tipi yaratabilir ve varolan içerik tiplerini düzenleyebilirsiniz. Bu bölüm gelişmiş kullanıcılar içindir.
