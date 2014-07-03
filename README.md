@@ -20,6 +20,13 @@ Bu menüden, Haber, Basın Bildirisi, İndirim Bildirisi veya Sealife sayısı e
 #[Slidelar](slides.md)
 Bu menüden ana sayfadaki resimli duyuru alanı(hero) ile ilgili içerikleri düzenleyebilirsiniz.
 
+
+
+#[Güzergahlar](routes.md)
+Bu menüden güzergah ve tarifelerle ilgili eklemeleri ve düzenlemeleri yapabilirsiniz.
+
+
+
 #Galeriler
 
 Bu menüden ana sayfada görünecek Instagram fotoğraflarını arayabilir ve ana sayfaya ekleyebilirsiniz.
@@ -35,9 +42,6 @@ Bu menüden yeni terminal yaratabilir ve varolan terminalleri düzenleyebilirsin
 #Gemiler
 Bu menüden yeni gemi yaratabilir ve varolan gemileri düzenleyebilirsiniz.
 
-
-#Güzergahlar
-Bu menüden güzergah ve tarifelerle ilgili eklemeleri ve düzenlemeleri yapabilirsiniz.
 
 
 #Güzergah Kategorileri
