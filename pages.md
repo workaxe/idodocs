@@ -40,6 +40,20 @@ Yeni sayfa ekleme ekranında,  yukarıda da işaretlendiği gibi, sayfa ayarlar�
  
 #Tab Ayarları
 
+Sayfa tablarından herhangi birine tıkladığınızda, görüntüleme, ayarlar ve sil hareketlerinden birisini seçebilirsiniz.
+Tabları sürükleyerek istediğiniz sıraya koyabilir, sıralarını ayarlayabilirsiniz. 
+
 <img src="ss/tab_click.png">
 
+
+Ayarlara tıkladığınızda karşılaşacağınız ekranda:
+
 <img src="ss/tab_settings.png">
+
+| Başlık | Açıklama          |
+| ------------- | ----------- |
+| **Sekme başlığı**      | Türkçe tab başlığı |
+| **Tab title**     | İngilizce tab başlığı    |
+| **Sekme kısaltması**     | Tabın adres anahtarı (SEO amaçlı)   |
+| **Page slug**     | Tabın adres anahtarı ingilizce (SEO amaçlı)   |
+| **Görünürlük**     | Tabın sayfada görününür olup olmaması   |
