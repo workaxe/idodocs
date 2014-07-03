@@ -23,4 +23,5 @@ Yeni sayfa ekleme ekranında,  yukarıda da işaretlendiği gibi, sayfa ayarlar�
 
 
 **Sayfa başlığı** Türkçe sayfa başlığı
+
 **Page title** İngilizce sayfa başlığı
