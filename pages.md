@@ -19,5 +19,8 @@ Yeni sayfa ekleme ekranında,  yukarıda da işaretlendiği gibi, sayfa ayarlar�
 
 ###Sayfa ayarları
 
-
 <img src="ss/page_settings.png">
+
+
+**Sayfa başlığı** Türkçe sayfa başlığı
+**Page title** İngilizce sayfa başlığı
