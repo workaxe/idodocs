@@ -10,20 +10,24 @@ Bu menüden yeni sayfa yaratabilir, İDO Websitesindeki Yolculuk, Kurumsal ve Di
 
 #[Sayfalar](pages.md)
 Bu menüden yeni sayfa yaratabilir, İDO Websitesindeki Yolculuk, Kurumsal ve Diğer bölümlerdeki sayfaların içeriklerini düzenleyebilir, yeni sayfa ekleyebilirsiniz
-
+[Detaylı Bilgi](pages.md)
 
 
 #[Gönderiler](posts.md)
 Bu menüden, Haber, Basın Bildirisi, İndirim Bildirisi veya Sealife sayısı ekleyebilir veya düzenleyebilirsiniz. İdo ile güncel olarak girmeniz gereken tüm içerikleri bu 'Gönderiler' menüsü aracılığı ile yapabilirsiniz. 
+[Detaylı Bilgi](posts.md)
+
 
 
 #[Slidelar](slides.md)
 Bu menüden ana sayfadaki resimli duyuru alanı(hero) ile ilgili içerikleri düzenleyebilirsiniz.
-
+[Detaylı Bilgi](slides.md)
 
 
 #[Güzergahlar](routes.md)
 Bu menüden güzergah ve tarifelerle ilgili eklemeleri ve düzenlemeleri yapabilirsiniz.
+[Detaylı Bilgi](routes.md)
+
 
 
 
