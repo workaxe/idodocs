@@ -24,9 +24,16 @@ Yeni sayfa ekleme ekranında,  yukarıda da işaretlendiği gibi, sayfa ayarlar�
 
 | Name | Description          |
 | ------------- | ----------- |
-| **Sayfa başlığı**      | Türkçe sayfa başlığı|
+| **Sayfa başlığı**      | Türkçe sayfa başlığı |
 | **Page title**     | İngilizce sayfa başlığı    |
-
- 
-
+| **Page type**     | Sayfanın türü, 'page' yazmanız yeterlidir    |
+| **Görünürlük**     | Sayfanın menüde görününür olup olmaması   |
+| **Sayfa Adresi**     | Sayfanın adres anahtarı (SEO amaçlı)   |
+| **Page slug**     | Sayfanın adres anahtarı ingilizce (SEO amaçlı)   |
+| **Sayfa açıklaması**     | Türkçe sayfa açıklaması    |
+| **About Page**     | İngilizce sayfa açıklaması    |
+| **Css kuralı**     |    |
+| **container css kuralı**     |    |
+| **Bağlı olduğu bölüm**     |  Hiyerarşik yapı    |
+| **Kapak fotoğrafı**     |    |
  
