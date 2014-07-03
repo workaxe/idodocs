@@ -17,7 +17,7 @@ Yeni sayfa ekleme ekranında,  yukarıda da işaretlendiği gibi, sayfa ayarlar�
 
 
 
-###Sayfa ayarları
+#Sayfa ayarları
 
 <img src="ss/page_settings.png">
 
@@ -38,7 +38,7 @@ Yeni sayfa ekleme ekranında,  yukarıda da işaretlendiği gibi, sayfa ayarlar�
 | **Kapak fotoğrafı**     |    |
  
  
-###Tab Ayarları
+#Tab Ayarları
 
 <img src="ss/tab_click.png">
 
