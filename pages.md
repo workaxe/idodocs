@@ -22,7 +22,7 @@ Yeni sayfa ekleme ekranında,  yukarıda da işaretlendiği gibi, sayfa ayarlar�
 <img src="ss/page_settings.png">
 
 
-| Name | Description          |
+| Başlık | Açıklama          |
 | ------------- | ----------- |
 | **Sayfa başlığı**      | Türkçe sayfa başlığı |
 | **Page title**     | İngilizce sayfa başlığı    |
@@ -37,3 +37,8 @@ Yeni sayfa ekleme ekranında,  yukarıda da işaretlendiği gibi, sayfa ayarlar�
 | **Bağlı olduğu bölüm**     |  Hiyerarşik yapı    |
 | **Kapak fotoğrafı**     |    |
  
+ 
+###Tab Ayarları
+
+<img src="ss/tab_click.png">
+<img src="ss/tab_settings.png">
