@@ -41,4 +41,5 @@ Yeni sayfa ekleme ekranında,  yukarıda da işaretlendiği gibi, sayfa ayarlar�
 ###Tab Ayarları
 
 <img src="ss/tab_click.png">
+
 <img src="ss/tab_settings.png">
