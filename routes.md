@@ -43,6 +43,7 @@ Bu saat kutularının üstüne tıklayarak eğer varsa o saat ile ilgili notlar�
 (Yada o saatte sefer yoksa not kısmına '-' tire işaretini koyarak, sefer olmadığını belirtebilirsiniz )
 
 Bir alttaki 'Haftanın günleri' seçeneklerinden geçerli olduğu günleri işaretleyebilirsiniz.
+Örneğin hafta içi hergün geçerli olacak bir seçenek için haftanın tüm iş günlerini işaretlemeniz gereklidir.
 
 
 <img src="ss/4_routehours_edit.png">
