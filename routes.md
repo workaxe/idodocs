@@ -26,7 +26,7 @@
 | **Slide tipi**     | Seçtiğiniz tipe göre yeni içerik kutuları doldurmanız gerekebilir.   |
 
 
-<img src="ss/3routehours.png">
+<img src="ss/3_routehours.png">
 
 
 | Başlık | Açıklama          |
@@ -37,7 +37,7 @@
 | **Slide tipi**     | Seçtiğiniz tipe göre yeni içerik kutuları doldurmanız gerekebilir.   |
 
 
-<img src="ss/4routehours_edit.png">
+<img src="ss/4_routehours_edit.png">
 
 
 | Başlık | Açıklama          |
