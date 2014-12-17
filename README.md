@@ -21,7 +21,13 @@ Bu menüden, Haber, Basın Bildirisi, İndirim Bildirisi veya Sealife sayısı e
 
 #[Slidelar](slides.md)
 Bu menüden ana sayfadaki resimli duyuru alanı(hero) ile ilgili içerikleri düzenleyebilirsiniz.
+
+[Slide hazırlama için örnekler](slide_prep.md)
 [Detaylı Bilgi](slides.md)
+
+
+
+
 
 
 #[Güzergahlar](routes.md)
