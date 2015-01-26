@@ -6,6 +6,9 @@
 
 Ana sayfaya 'slide' hazırlarken, arkaplan ve önplan olarak iki farklı katman ile düşünülmesi gerekiyor.
 
+Arkaplan: 1400x800
+Önplan: 1000x450
+
 
 
 Eski İDO sitesindeki bannerlara benzer 2 katmanlı slide örnekleri inceleyebilirsiniz:
